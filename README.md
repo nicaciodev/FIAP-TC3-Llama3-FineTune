@@ -35,7 +35,7 @@ ___
 
 ## Documentação Completa
 
-> A documentação completa se encontra no diretório [Docs](https://github.com/nicaciodev/FIAP-TC3-Llama3-FineTune/tree/main/Docs) deste projeto nos formatos: [Markdown](https://github.com/nicaciodev/FIAP-TC3-Llama3-FineTune/blob/main/Docs/DRE--Documentacao_Completa.md), [PDF](https://github.com/nicaciodev/FIAP-TC3-Llama3-FineTune/blob/main/Docs/DRE--Documentacao_Completa.pdf) e [HML].
+> A documentação completa se encontra no diretório [Docs](https://github.com/nicaciodev/FIAP-TC3-Llama3-FineTune/tree/main/docs) deste projeto nos formatos: [Markdown](https://github.com/nicaciodev/FIAP-TC3-Llama3-FineTune/blob/main/docs/documenta%C3%A7%C3%A3o_completa_da_codifica%C3%A7%C3%A3o.md), [PDF](https://github.com/nicaciodev/FIAP-TC3-Llama3-FineTune/blob/main/docs/documenta%C3%A7%C3%A3o_completa_da_codifica%C3%A7%C3%A3o.pdf).
 
 ## Resumo do Projeto
 > Este projeto consiste no fine-tuning do modelo unsloth/llama-3-8b-bnb-4bit, uma versão otimizada do Llama-3 8B da Meta, para a tarefa específica de gerar descrições de produtos da Amazon a partir de seus títulos. Utilizando a técnica QLoRA e a biblioteca Unsloth para um treinamento eficiente, o modelo foi treinado com 50.000 exemplos do dataset "The Amazon Titles-1.3MM". O processo envolveu uma rigorosa etapa de pré-processamento dos dados para remover ruídos e a engenharia de um prompt no formato nativo do Llama 3 para garantir a correta interpretação da tarefa. O modelo final é capaz de gerar descrições relevantes e contextualmente apropriadas, que podem variar de sinopses de enredo a biografias de autores, refletindo a diversidade do dataset original.
