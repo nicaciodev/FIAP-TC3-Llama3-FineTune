@@ -59,6 +59,7 @@ Durante o desenvolvimento, alguns desafios foram encontrados e superados, repres
 * `README.md`: Este arquivo, com a descrição e instruções do projeto.
 * `Docs`: Documentação completa do projeto. 
 * `LICENSE`: Contém a licença deste projeto.
+* `Tech_Challenge_F3_para_Github.ipynb`: Todo o código utilizado para tratar o dataset, fazer o fine-tuning e inferir o mesmo.
 
 
 #
