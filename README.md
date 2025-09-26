@@ -145,9 +145,9 @@ while True:
 ## Conclusões
 > O projeto demonstrou com sucesso a eficácia do fine-tuning com QLoRA para especializar um LLM de grande escala em uma tarefa de nicho. O modelo final é capaz de gerar descrições relevantes e contextualmente ricas, aprendendo os diferentes padrões presentes no dataset da Amazon, como sinopses de enredo e biografias de autores.
 
-O processo reforçou a importância crítica do pré-processamento de dados e da engenharia de prompts para o sucesso de um projeto de fine-tuning. Os desafios encontrados, como a limpeza de artefatos de texto (boilerplate) e o controle da geração para evitar overfitting estrutural, foram superados com técnicas específicas e iterativas.
+> O processo reforçou a importância crítica do pré-processamento de dados e da engenharia de prompts para o sucesso de um projeto de fine-tuning. Os desafios encontrados, como a limpeza de artefatos de texto (boilerplate) e o controle da geração para evitar overfitting estrutural, foram superados com técnicas específicas e iterativas.
 
-O resultado é um modelo robusto e bem-comportado que cumpre todos os requisitos do Tech Challenge, servindo como um estudo de caso prático sobre o pipeline completo de especialização de um foundation model.
+> O resultado é um modelo robusto e bem-comportado que cumpre todos os requisitos do Tech Challenge, servindo como um estudo de caso prático sobre o pipeline completo de especialização de um foundation model.
 
 
 
