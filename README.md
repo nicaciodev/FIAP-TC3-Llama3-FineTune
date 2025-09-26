@@ -60,6 +60,8 @@ Durante o desenvolvimento, alguns desafios foram encontrados e superados, repres
 * `Docs`: Documentação completa do projeto. 
 * `LICENSE`: Contém a licença deste projeto.
 * `Tech_Challenge_F3_para_Github.ipynb`: Todo o código utilizado para tratar o dataset, fazer o fine-tuning e inferir o mesmo.
+
+  ### Links
 * `Arquivos Originais no Google-Drive`: [https://drive.google.com/drive/folders/1kLw3Bdg4Q0d5V6rHAY_QOcTvohMXnP3t?usp=sharing](https://drive.google.com/drive/folders/1kLw3Bdg4Q0d5V6rHAY_QOcTvohMXnP3t?usp=sharing)
 * `Modelo Salvo no Hugging Face`: [https://huggingface.co/robsonnicacio/llama-3-8b-amazon-descriptions-tcf3](https://huggingface.co/robsonnicacio/llama-3-8b-amazon-descriptions-tcf3)
 
